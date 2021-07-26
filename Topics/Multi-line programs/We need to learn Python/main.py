@@ -1,0 +1,5 @@
+print("WE NEED")
+print()
+print("TO LEARN PYTHON")
+print()
+print("TO QUICKLY AS POSSIBLE")
